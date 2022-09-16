@@ -12,30 +12,30 @@ Launch these commands:
 2) ->cd Smile-detection-Javascript-and-flask
 
 3) Install virtualenv on Linux:
-  ->sudo apt install python-virtualenv #(Debian/Ubuntu)
-  or
-  ->sudo yum install python-virtualenv #(RHEL)
-  or 
-  ->py -2 -m pip install virtualenv #(Windows)
+->sudo apt install python-virtualenv #(Debian/Ubuntu)
+or
+->sudo yum install python-virtualenv #(RHEL)
+or 
+->py -2 -m pip install virtualenv #(Windows)
   
 4) Create an Environment
-  ->python3 -m venv flask_env #(Linux)
-  or
-  ->py -3 -m venv flask_env #(Windows)
+->python3 -m venv flask_env #(Linux)
+or
+->py -3 -m venv flask_env #(Windows)
   
 5) Activate the Environment
-  -> flask_env/bin/activate #(Linux)
-  or
-  -> \Scripts\activate #(Windows)
+-> flask_env/bin/activate #(Linux)
+or
+-> \Scripts\activate #(Windows)
   
 6) Install Flask
- -> pip install flask
- ->pip install flask_socketio
+-> pip install flask
+->pip install flask_socketio
  
 7) Launch the application
- -> python web_main.py (Linux)
- or
- -> Python web_main.py (Windows)
+-> python web_main.py (Linux)
+or
+-> Python web_main.py (Windows)
  
  
- Thanks :-)
+Thanks :-)
